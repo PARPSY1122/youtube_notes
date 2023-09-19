@@ -75,17 +75,17 @@ $ sudo apt-get install zip -y
 
 Download the SonarQube distribution files.
 
-$ sudo wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.6.1.59531.zip
+$ sudo wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.8.0.63668.zip
 
 Unzip the downloaded file.
 
 
-sudo unzip sonarqube-9.6.1.59531.zip
+sudo unzip sonarqube-sonarqube-9.8.0.63668.zip
 
 
 Move the unzipped files to /opt/sonarqube directory
 
-sudo mv sonarqube-9.6.1.59531 sonarqube
+sudo mv  sonarqube-9.8.0.63668 sonarqube
 sudo mv sonarqube /opt/
 
 
